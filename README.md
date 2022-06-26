@@ -8,3 +8,6 @@ In this challenge, we used an open-source JavaScript map library called, Leaflet
 ![Earthquake Map](https://github.com/LindsayTeeters/Week-13-Challenge/blob/main/Earthquake_Challenge/resources/Map%20Screenshot%20.png)
 
 Please, see [Github Pages](https://github.com/LindsayTeeters/Week-13-Challenge/blob/main/Earthquake_Challenge/index.html)  to view our interevtive map.
+
+
+![GitHubPages Image](https://github.com/LindsayTeeters/Week-13-Challenge/blob/main/Earthquake_Challenge/resources/Map%20Screenshot%20.png)
